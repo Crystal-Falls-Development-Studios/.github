@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/Crystal-Falls-Development-Studios/.github/blob/main/profile/temporary%20thumbnail.png" width=450>
+<img src="https://github.com/Crystal-Falls-Development-Studios/.github/blob/main/profile/temporary%20thumbnail.png" width=1000>
   
   <h3 align="center">Brand new Roblox experience!</h3>
   <h6 align="center">Step into a world of adventure and explore multiple realms!</h6>
